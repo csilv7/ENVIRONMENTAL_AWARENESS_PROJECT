@@ -1,6 +1,6 @@
 # PROJETO CONSIENTIZAÇÃO AMBIENTAL
 
-Projeto de Consientização Ambiental desenvolvido pelo, Graduando de Sistemas de Informação pela Faci - Wyden, [**João Vitor Costa Pinheiro**]([https://youtu.be/_eK0z5QbpKA?si=iqLmmQcuDoQqZ-b](https://github.com/jvcp04) com suporte estatístico de Breno Cauã Rodrigues da Silva.
+Projeto de Consientização Ambiental desenvolvido pelo, Graduando de Sistemas de Informação pela Faci - Wyden, [**João Vitor Costa Pinheiro**](https://youtu.be/_eK0z5QbpKA?si=iqLmmQcuDoQqZ-b](https://github.com/jvcp04) com suporte estatístico de Breno Cauã Rodrigues da Silva.
 
 O objetivo, principal, deste estudo foi estimar a ***Proporção de pessoas que já ouviram falar do Conceito de Sustentabilidade***. Dentre outras informações que foram consideradas interessantes para análise  & cruzamento e/ou segmento de dados.
 
