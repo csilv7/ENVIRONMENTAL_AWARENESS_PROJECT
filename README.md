@@ -4,6 +4,8 @@ Projeto de Consientização Ambiental desenvolvido pelo, Graduando de Sistemas d
 
 O objetivo, principal, deste estudo foi estimar a ***Proporção de pessoas que já ouviram falar do Conceito de Sustentabilidade***. Dentre outras informações que foram consideradas interessantes para análise  & cruzamento e/ou segmento de dados.
 
+Segue link do Google Forms para o questionário:[]()
+
 As perguntas aplicadas no questionário foram divididas em seções para facilitar o compreendimento e ter um bom densevolvimento de raciocínio. Veja as perguntas aplicadas dentro de cada seção:
 
 1. **Informações Demográficas**
