@@ -6,4 +6,10 @@ O objetivo, principal, deste estudo foi estimar a ***Proporção de pessoas que 
 
 As perguntas aplicadas no questionário foram divididas em seções para facilitar o compreendimento e ter um bom densevolvimento de raciocínio. Veja as perguntas aplicadas dentro de cada seção:
 
-1. 
+1. **Informações Demográficas**
+
+2. **Sustentabilidade: O Que Você Conhece?**
+
+3. **Práticas Ambientais e Desafios na Sua Região**
+
+4. **Sobre a COP30**
