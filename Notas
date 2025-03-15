@@ -1,0 +1,9 @@
+pdf: 
+    pdf-engine: xelatex
+    documentclass: scrreprt
+    number-sections: true
+    indent: true
+    header-includes: |
+      \usepackage{indentfirst}
+    fontsize: 12pt
+    geometry: [left=3cm, top=3cm, right=2cm, bottom=2cm]
