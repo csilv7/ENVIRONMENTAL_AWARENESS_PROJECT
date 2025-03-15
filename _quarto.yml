@@ -43,7 +43,7 @@ book:
 format:
   html: 
     number-sections: true
-    ode-fold: true
+    code-fold: true
     code-tools: true
     code-link: true
     toc-title: Índice
