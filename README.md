@@ -10,6 +10,8 @@ As perguntas aplicadas no questionário foram divididas em seções para facilit
 
 1. **Informações Demográficas**
 
+1.1. Qual o seu sexo?
+
 2. **Sustentabilidade: O Que Você Conhece?**
 
 3. **Práticas Ambientais e Desafios na Sua Região**
