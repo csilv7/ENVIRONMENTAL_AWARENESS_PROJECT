@@ -10,14 +10,7 @@ As perguntas aplicadas no questionário foram divididas em seções para facilit
 
 1. **Informações Demográficas**
 
-    1. Qual o seu sexo?
-    2. Qual a sua idade?
-    3. Qual o seu  bairro de residência?
-    4. Qual o seu grau de escolaridade?
-
 2. **Sustentabilidade: O Que Você Conhece?**
-
-    5. Você já ouviu falar sobre o conceito de sustentabilidade?
 
 4. **Práticas Ambientais e Desafios na Sua Região**
 
