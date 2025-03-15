@@ -1,0 +1,114 @@
+---
+title: "Um Estudo Descritivo sobre a Conscientização Ambiental"
+author:
+  - name: "João Vitor Costa Pinheiro"
+  - name: "Breno Cauã Rodrigues da Silva"
+  
+format:
+  pdf:
+    pdf-engine: xelatex
+    documentclass: article
+    number-sections: true
+    indent: true
+    header-includes: |
+      \usepackage{indentfirst}
+    fontsize: 12pt
+    geometry: [left=3cm, top=3cm, right=2cm, bottom=2cm]
+
+bibliography: references.bib
+
+execute:
+  echo: false
+  warning: false
+
+lang: pt
+---
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+# Resumo {.unnumbered}
+
+Este trabalho ...
+
+# Abstract {.unnumbered}
+
+This work ...
+
+\newpage
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+# Introdução
+
+## Objetivo
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+# Materiais e Métodos
+
+## Conjunto de Dados
+
+Para o estudo em questão, foi retirada uma amostra, através de uma amostragem por quotas, para estimar a *proporção de pessoas que já ouviram falar do conceito de sustentabilidade*. Para determinar o tamanho da amostra foi usada a seguinte expressão:
+
+$$
+n = \dfrac{Z_{\alpha/2}^{2} \ p \ (1 - p)}{E^{2}},
+$$ {#eq-DimSample}
+
+\noindent onde
+
+-   $Z_{\alpha/2}^{2}$ é o percentil da distribuição normal padrão com $(1 - \alpha)100\%$ de confiança;
+-   $p$ é a proporção estimada de estudos anteriores ou por uma amostra piloto;
+-   $E$ é margem de erro permitido para a estimativa.
+
+Foi usado um nível de significância de $5\%$ ($\alpha = 0,05$), obtendo o percentil $Z_{0,025} \simeq 1,96$. Como não foi encontrada referência alguma para a proporção que está sendo estudada, usou-se $p = 0,5$ para obter o tamanho máximo da amostra. A margem de erro adotada foi de $5\%$, isto é, $E = 0,05$. Para esses valores, foi obtido um $n = 385$.
+
+A aplicação do questionário foi feita por meio da plataforma [Google Forms](https://docs.google.com/forms/u/0/) e alocação dos resultados na plataforma [Google Sheets](https://docs.google.com/spreadsheets/u/0/). O questionário ficou com um total de 18 perguntas dividas em 4 subseções.
+
+## Software Utilizado
+
+Para conduzir as análises e estimativas neste estudo, foi utilizada a linguagem de programação Python, empregando a IDE [Google Colaboratory](https://colab.research.google.com/). As seguintes bibliotecas foram utilizadas nas diversas etapas do processo:
+
+- **Numpy:** Para operações matemáticas, lógicas e estatísticas eficientes em vetores multidimensionais ou matrizes [@numpy];
+- **Pandas:** Para manipulação e análise de dados, oferecendo estruturas de dados flexíveis e poderosas [@pandas];
+- **Matplotlib:** Para criação de visualizações gráficas [@matplotlib];
+- **Seaborn:** Complementar ao Matplotlib, oferece uma interface de alto nível para criação de gráficos estatísticos atrativos e informativos [@seaborn];
+- **Scipy:** Para cálculos científicos e técnicos [@scipy].
+
+## Metodologia
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+# Resultados e Discurssões
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+# Conclusão
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+# Referências
+
+::: {#refs}
+:::
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::

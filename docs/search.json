@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Um Estudo Descritivo sobre a Conscientização Ambiental",
+    "section": "",
+    "text": "Resumo\nEste trabalho …\n\n\nAbstract\nThis work …",
+    "crumbs": [
+      "Resumo"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introdução",
+    "section": "",
+    "text": "1.1 Objetivo",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "mm.html",
+    "href": "mm.html",
+    "title": "2  Materiais e Métodos",
+    "section": "",
+    "text": "2.1 Conjunto de Dados\nPara o estudo em questão, foi retirada uma amostra, através de uma amostragem por quotas, para estimar a proporção de pessoas que já ouviram falar do conceito de sustentabilidade. Para determinar o tamanho da amostra foi usada a seguinte expressão:\n\\[\nn = \\dfrac{Z_{\\alpha/2}^{2} \\ p \\ (1 - p)}{E^{2}},\n\\tag{2.1}\\] onde\nFoi usado um nível de significância de \\(5\\%\\) (\\(\\alpha = 0,05\\)), obtendo o percentil \\(Z_{0,025} \\simeq 1,96\\). Como não foi encontrada referência alguma para a proporção que está sendo estudada, usou-se \\(p = 0,5\\) para obter o tamanho máximo da amostra. A margem de erro adotada foi de \\(5\\%\\), isto é, \\(E = 0,05\\). Para esses valores, foi obtido um \\(n = 385\\).\nA aplicação do questionário foi feita por meio da plataforma Google Forms e alocação dos resultados na plataforma Google Sheets. O questionário ficou com um total de 18 perguntas dividas em 4 subseções.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Materiais e Métodos</span>"
+    ]
+  },
+  {
+    "objectID": "mm.html#conjunto-de-dados",
+    "href": "mm.html#conjunto-de-dados",
+    "title": "2  Materiais e Métodos",
+    "section": "",
+    "text": "\\(Z_{\\alpha/2}^{2}\\) é o percentil da distribuição normal padrão com \\((1 - \\alpha)100\\%\\) de confiança;\n\\(p\\) é a proporção estimada de estudos anteriores ou por uma amostra piloto;\n\\(E\\) é margem de erro permitido para a estimativa.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Materiais e Métodos</span>"
+    ]
+  },
+  {
+    "objectID": "mm.html#software-utilizado",
+    "href": "mm.html#software-utilizado",
+    "title": "2  Materiais e Métodos",
+    "section": "2.2 Software Utilizado",
+    "text": "2.2 Software Utilizado\nPara conduzir as análises e estimativas neste estudo, foi utilizada a linguagem de programação Python, empregando a IDE Google Colaboratory. As seguintes bibliotecas foram utilizadas nas diversas etapas do processo:\n\nNumpy: Para operações matemáticas, lógicas e estatísticas eficientes em vetores multidimensionais ou matrizes (Harris et al. 2020);\nPandas: Para manipulação e análise de dados, oferecendo estruturas de dados flexíveis e poderosas (McKinney 2010);\nMatplotlib: Para criação de visualizações gráficas (Hunter 2007);\nSeaborn: Complementar ao Matplotlib, oferece uma interface de alto nível para criação de gráficos estatísticos atrativos e informativos (Waskom 2021);\nScipy: Para cálculos científicos e técnicos (Virtanen et al. 2020).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Materiais e Métodos</span>"
+    ]
+  },
+  {
+    "objectID": "mm.html#metodologia",
+    "href": "mm.html#metodologia",
+    "title": "2  Materiais e Métodos",
+    "section": "2.3 Metodologia",
+    "text": "2.3 Metodologia\n\n\n\n\n\n\n\n\n\n\n\nHarris, Charles R., K. Jarrod Millman, Stéfan J. van der Walt, Ralf Gommers, Pauli Virtanen, David Cournapeau, Eric Wieser, et al. 2020. «Array programming with NumPy». Nature 585 (7825): 357–62. https://doi.org/10.1038/s41586-020-2649-2.\n\n\nHunter, J. D. 2007. «Matplotlib: A 2D graphics environment». Computing in Science & Engineering 9 (3): 90–95. https://doi.org/10.1109/MCSE.2007.55.\n\n\nMcKinney, Wes. 2010. «Data Structures for Statistical Computing in Python». Em Proceedings of the 9th Python in Science Conference, editado por Stéfan van der Walt e Jarrod Millman, 56–61. https://doi.org/ 10.25080/Majora-92bf1922-00a .\n\n\nVirtanen, Pauli, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, Evgeni Burovski, et al. 2020. «SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python». Nature Methods 17: 261–72. https://doi.org/10.1038/s41592-019-0686-2.\n\n\nWaskom, Michael L. 2021. «seaborn: statistical data visualization». Journal of Open Source Software 6 (60): 3021. https://doi.org/10.21105/joss.03021.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Materiais e Métodos</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Harris, Charles R., K. Jarrod Millman, Stéfan J. van der Walt, Ralf\nGommers, Pauli Virtanen, David Cournapeau, Eric Wieser, et al. 2020.\n“Array Programming with NumPy.”\nNature 585 (7825): 357–62. https://doi.org/10.1038/s41586-020-2649-2.\n\n\nHunter, J. D. 2007. “Matplotlib: A 2D Graphics\nEnvironment.” Computing in Science & Engineering 9\n(3): 90–95. https://doi.org/10.1109/MCSE.2007.55.\n\n\nMcKinney, Wes. 2010. “Data Structures\nfor Statistical Computing in\nPython.” In Proceedings of the 9th\nPython in Science\nConference, edited by Stéfan van der Walt and Jarrod\nMillman, 56–61. https://doi.org/\n10.25080/Majora-92bf1922-00a .\n\n\nVirtanen, Pauli, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler\nReddy, David Cournapeau, Evgeni Burovski, et al. 2020. “SciPy 1.0: Fundamental Algorithms for\nScientific Computing in Python.” Nature Methods\n17: 261–72. https://doi.org/10.1038/s41592-019-0686-2.\n\n\nWaskom, Michael L. 2021. “Seaborn: Statistical Data\nVisualization.” Journal of Open Source Software 6 (60):\n3021. https://doi.org/10.21105/joss.03021.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]

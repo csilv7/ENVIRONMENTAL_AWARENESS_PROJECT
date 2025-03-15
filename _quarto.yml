@@ -1,0 +1,72 @@
+project: 
+  type: book
+  output-dir: docs
+  
+book:
+  title: "Um Estudo Descritivo sobre a Conscientização Ambiental"
+  author:
+  - name: "João Vitor Costa Pinheiro"
+    affiliations:
+      - name: "Faci Wyden"
+      - name: "Curso de Sistemas de Informação"
+      
+  - name: "Breno Cauã Rodrigues da Silva"
+    orcid: 0009-0005-9740-2069
+    affiliations:
+      - name: "Universidade Federal do Pará"
+      - name: "Instituto de Ciências Exatas e Naturais"
+      - name: "Falculdade de Estatística"
+      
+  page-footer:
+    left: |
+      **PINHEIRO, J. V. C. & SILVA, B. C. R.**
+    right: |
+      FEITO NO <a href="https://quarto.org/"> PACOTE QUARTO</a>.
+
+  repo-branch: main
+  repo-actions: [edit, issue]
+  repo-url : https://github.com/csilv7/ENVIRONMENTAL_AWARENESS_PROJECT
+  downloads: [pdf, docx]
+  sharing: [twitter, facebook]
+  page-navigation: true
+    
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - mm.qmd
+    - summary.qmd
+    - conclusions.qmd
+    - references.qmd
+    
+format:
+  html: 
+    number-sections: true
+    ode-fold: true
+    code-tools: true
+    code-link: true
+    toc-title: Índice
+    toc-location: right
+    fontcolor: "black"
+    theme: "lux"
+    highlight-style: monokai
+    df-print: paged
+    css: style.css
+  pdf: 
+    pdf-engine: xelatex
+    documentclass: scrreprt
+    number-sections: true
+    indent: true
+    header-includes: |
+      \usepackage{indentfirst}
+    fontsize: 12pt
+    geometry: [left=3cm, top=3cm, right=2cm, bottom=2cm]
+  docx:
+    number-sections: true
+
+bibliography: references.bib
+
+execute:
+  echo: True
+  warning: false
+
+lang: pt
