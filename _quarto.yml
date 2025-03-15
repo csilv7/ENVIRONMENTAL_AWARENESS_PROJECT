@@ -7,13 +7,13 @@ book:
   subtitle: "no Ano da COP-30"
   
   author:
-  - name: "João Vitor Costa Pinheiro"
-    orcid: 0009-0005-9740-2069
+  - name: "João Vitor Costa Pinheiro$^{1}$"
+    #orcid: 0000-0002-6310-5040
     affiliations:
       - name: "Faci Wyden"
       - name: "Curso de Sistemas de Informação"
-  - name: "Prof Dr Paulo Cerqueira dos Santos Jr"
-    orcid: 0000-0002-6310-5040
+  - name: "Breno Cauã Rodrigues da Silva$^{2}$"
+    #orcid: 0009-0005-9740-2069
     affiliations:
       - name: "Universidade Federal do Pará"
       - name: "Instituto de Ciências Exatas e Naturais"
