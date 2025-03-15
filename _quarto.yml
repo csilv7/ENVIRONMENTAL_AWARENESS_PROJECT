@@ -4,14 +4,16 @@ project:
   
 book:
   title: "Um Estudo Descritivo sobre a Conscientização Ambiental"
+  subtitle: "no Ano da COP-30"
+  
   author:
   - name: "João Vitor Costa Pinheiro"
+    orcid: 0009-0005-9740-2069
     affiliations:
       - name: "Faci Wyden"
       - name: "Curso de Sistemas de Informação"
-      
-  - name: "Breno Cauã Rodrigues da Silva"
-    orcid: 0009-0005-9740-2069
+  - name: "Prof Dr Paulo Cerqueira dos Santos Jr"
+    orcid: 0000-0002-6310-5040
     affiliations:
       - name: "Universidade Federal do Pará"
       - name: "Instituto de Ciências Exatas e Naturais"
